@@ -28,7 +28,8 @@ require('lazy').setup({
 
   require 'kickstart.plugins.blink-cmp',
 
-  require 'kickstart.plugins.tokyonight',
+-- DMT: Loaded a conventional colorscheme as a command to main init.lua
+--  require 'kickstart.plugins.tokyonight',
 
   require 'kickstart.plugins.todo-comments',
 
